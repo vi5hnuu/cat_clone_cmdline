@@ -6,3 +6,4 @@ Valid options :
 -sn | -s -n : same as above  
 -sb | -s -b : same as above  
 -bs | -b -s : same as above  
+ > and  >> options are also supported.  

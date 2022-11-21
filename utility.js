@@ -13,7 +13,7 @@ const utility = {
     validOptions: ['n', 's', 'b', 'ns', 'sn', 'sb', 'bs'],
     contains,
     numberLinesOf,
-    removeGap
+    removeGap,
 }
 
 function seperateOptionsAndFiles(arr) {
